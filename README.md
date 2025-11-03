@@ -14,6 +14,4 @@
 
 # more changes!
 
-## man why did the deployments start failing, they work sworking yesterday
-
-### ohhh okay this should work
+#### hmmm
