@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello from Enaya's FastAPII."}
+    return {"message": "Hello this is enaya!"}
