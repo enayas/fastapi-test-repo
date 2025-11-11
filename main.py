@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello this is is enaya's test repo. This should attach a webhook."}
+    return {"message": "Hello this is is enaya's test repo. Okay now when I push it should redeploy to the right ec2."}
