@@ -8,4 +8,4 @@ def read_root():
     "we're making changes to"
     "our repository!"
     ""
-    "Let's watch CI/CD in action."}
+    "Let's watch CI."}
